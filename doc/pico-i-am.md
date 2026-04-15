@@ -1,4 +1,6 @@
 # Pico isolated analogue measurement
+The integration test are evaluated in a manual manner.
+
 
 ## State machine
 
